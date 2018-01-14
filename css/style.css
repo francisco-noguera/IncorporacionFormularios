@@ -1,0 +1,17 @@
+/*----
+	Author: Francisco Noguera
+	License: Creative Commons Attribution 3.0 Unported
+	License URL: http://creativecommons.org/licenses/by/3.0/
+---*/
+
+.table-container {
+				padding: 1.5rem;
+				margin-right: 0;
+				margin-bottom: 0;
+				margin-left: 0;
+				border-width: .2rem;
+			}
+
+.add-button {
+    text-align: right;
+}			
